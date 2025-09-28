@@ -3,4 +3,4 @@ Due to data-sharing restrictions, **individual-level KSHAP network data are not 
 The repository contains:
 - The **R scripts** used for analysis
 - The **draft research paper**
-- The publicly available **KSHAP Wave 1 baseline dataset** for demonstration only
+- The publicly available **KSHAP Wave 1, 3 dataset** for demonstration only (Network data is not included.)
